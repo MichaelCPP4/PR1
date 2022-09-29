@@ -10,6 +10,7 @@ namespace Lib_1
     {
         static public void SschetChisel (int k, out string chisla, out int sum)
         {
+            sum = 666;
             sum = 0;
             int a;
             chisla = "0";
